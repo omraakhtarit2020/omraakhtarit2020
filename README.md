@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omraakhtarit2020&label=Profile%20views&color=0e75b6&style=flat" alt="omraakhtarit2020" /> </p>
 
-- 🌱 I’m currently learning **Bootstrap,react,sql**
+- 🌱 I’m currently learning **SpringBoot,sql**
 
-- 📫 How to reach me **umraakhtar786@gmail.com**
+- 📫 How to reach me **omraakhtar@gmail.com**
 
 - ⚡ Fun fact **I think i live to eat.**
 
